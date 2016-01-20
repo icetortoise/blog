@@ -1,10 +1,9 @@
 +++
-date = "2016-01-20T13:11:50-05:00"
-draft = true
+date = "2016-01-20T13:50:50-05:00"
+draft = false
 title = "first"
+
 +++
 
-### 试水hugo和github pages
-
-Looked alright!
+testing
 
