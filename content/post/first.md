@@ -4,5 +4,7 @@ draft = true
 title = "first"
 +++
 
-试水hugo和github pages
+### 试水hugo和github pages
+
+Looked alright!
 
