@@ -17,5 +17,5 @@ cd public
 git add -A
 git commit -m"blog update"
 git push origin master
-
-echo "ALL DONE NOW!"
+echo
+echo "!!!!ALL DONE NOW!!!!"
